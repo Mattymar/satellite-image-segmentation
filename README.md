@@ -1,3 +1,11 @@
-# poirot
-This repo contains a series of notebooks to help Metis students complete the DG/Metis project.  The goal of this project is to train a segmentation neural net to recognize different kinds of terrain and land-use.
+# satellite-image-segmentation
+This was my final project at the Metis Data Science Bootcamp. It was done as part of a partnership with Digital Globe, utilizing images from their WorldView-3 satellite to perform image segmentation.
+
+## Project Goal
+
+In my project, I performed image segmentation on satellite imagery from Shanghai in an attempt to map out the location of farmland. In the course of the project, I was able to extend to segmenting multiple classes, but for the purposes of the presentation, my focus was on farmland.
+
+![Shanghai Farmland](/images/farmland1.png?raw=true "Shanghai Farmland")
+![Shanghai Farmland](/images/farmland2.png?raw=true "Shanghai Farmland")
+![Shanghai Farmland](/images/farmland3.png?raw=true "Shanghai Farmland")
 
