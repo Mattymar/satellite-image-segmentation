@@ -15,7 +15,7 @@ Many people are familiar with computer vision applications in image classificati
 
 With segmentation, however, we need to predict a representation for each individual pixel.
 
-<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/pixel-by-pixel-farmland2.gif" width=256> 
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/pixel-by-pixel-farmland3.gif" width=256> 
 
 As with classification, convolutional neural networks are commonly used for segmentation tasks.  It's also standard practice to utilize classification architectures (minus the final output layers) to develop a sense of what is in an image.
 
