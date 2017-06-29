@@ -20,5 +20,5 @@ The models used are available in this github repository.
 
 ## Some Segmentation Results
 
-<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results1.png">
-| <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results2a.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results2b.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results2c.png" width=256> |
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results1.png">  
+| <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results2a.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results2b.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/results2c.png" width=256>
