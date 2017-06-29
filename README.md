@@ -5,7 +5,7 @@ This was my final project at the Metis Data Science Bootcamp. It was done as par
 
 In my project, I performed image segmentation on satellite imagery from Shanghai in an attempt to map out the location of farmland. In the course of the project, I was able to extend to segmenting multiple classes, but for the purposes of the presentation, my focus was on farmland.
 
-![Shanghai Farmland](/images/farmland1.png | width=256)
-![Shanghai Farmland](/images/farmland2.png =256x256)
-![Shanghai Farmland](/images/farmland3.png | width=256)
+![Shanghai Farmland](https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/farmland1.png | width=256)
+![Shanghai Farmland](https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/farmland2.png =256x256)
+![Shanghai Farmland](https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/farmland3.png | width=256)
 
