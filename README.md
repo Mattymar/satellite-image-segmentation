@@ -22,9 +22,7 @@ The models used are available in this github repository.
 
 <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
 r/images/results1.png">
-<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
-r/images/results2a.png" width=256>
-<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
-r/images/results2b.png" width=256>
-<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
-r/images/results2c.png" width=256>
+| <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results2a.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results2b.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results2c.png" width=256> |
