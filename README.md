@@ -9,6 +9,20 @@ In my project, I performed image segmentation on satellite imagery from Shanghai
 
 I decided to map out farmland in Shanghai because I feel it highlights a powerful aspect of satellite image segmentation. It gives us the ability to track changes in critical changes in environment and landscape over time. As a city that used to be surrounded by farmland, which has exploded in population in recent years, Shanghai was a natural city to begin my exploration.
 
+## What is Image Segmentation?
+
+Many people are familiar with computer vision applications in image classification, in which the program determines what object is represented in an image. This requires predicting a single value for each image.
+
+With segmentation, however, we need to predict a representation for each individual pixel.
+
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/pixel-by-pixel-farmland2.gif" width=256> 
+
+As with classification, convolutional neural networks are commonly used for segmentation tasks.  It's also standard practice to utilize classification architectures (minus the final output layers) to develop a sense of what is in an image.
+
+By converting any dense layers to convolutional, we're also able to get a better sense of spatial representation for which classes are most probable in each individual region. Unfortunately, the pooling layers of the classification phase leave us with only a few large regions on which to predict. To get more precise layers, we need to add several upsampling (or transverse convolutional) layers to our model.
+
+You can see some of the results of this process below.
+
 ## Workflow
 
 To accomplish my objective, I had to:
