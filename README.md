@@ -7,3 +7,24 @@ In my project, I performed image segmentation on satellite imagery from Shanghai
 
 | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/farmland1.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/farmland2.png" width=256> | <img src="https://github.com/Mattymar/satellite-image-segmentation/blob/master/images/farmland3.png" width=256>
 
+## Workflow
+
+To accomplish my objective, I had to:
+
+1. Locate images containing farmland using Open Street Maps data.
+2. Create ground truth masks using QGIS.
+3. Train several convolutional neural networks to predict the segmentation.
+4. (Optionally) ensemble model predictions.
+
+The models used are available in this github repository.
+
+## Some Segmentation Results
+
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results1.png">
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results2a.png" width=256>
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results2b.png" width=256>
+<img src="https://github.com/Mattymar/satellite-image-segmentation/blob/maste\
+r/images/results2c.png" width=256>
